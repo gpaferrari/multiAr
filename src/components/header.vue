@@ -5,7 +5,7 @@
       <ul class="nav justify-content-between">
         <li class="nav-item">
           <a class="navbar-brand" href="#">
-            <img src="../Imagem/imgHeader/logo.png" alt="" width="150" height="70">
+            <img src="../assets/Imagem/imgHeader/logo.png" alt="" width="150" height="70">
           </a>
         </li>
 

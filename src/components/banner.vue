@@ -14,7 +14,7 @@ export default{
 
 <style scoped>
 #main-banner{
-    background-image: url('../Imagem/banner/quarto.png');
+    background-image: url('../assets/Imagem/banner/quarto.png');
     background-size: cover;
     margin-top: 5px;
     height: 500px;

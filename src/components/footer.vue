@@ -4,7 +4,7 @@
         <div class="footer">
                 <div class="empresa">
                     <div>
-                        <img src="../Imagem/imgHeader/logo.png" alt="Multi-Ar Logo" width="150" height="70">
+                        <img src="../assets/Imagem/imgHeader/logo.png" alt="Multi-Ar Logo" width="150" height="70">
                     <br>
                     </div>
                     <div>
@@ -43,14 +43,14 @@
            <b> Formas de Pagamento</b> 
             <b> Rede Social </b>
             <div class="formasDepaPamentos">
-                <img src="../Imagem/pagamentos/mastercard.png" alt="cartão master card">
-                <img src="../Imagem/pagamentos/visa.png" alt="cartão visa">
-                <img src="../Imagem/pagamentos/hipercard.png" alt="cartão hipercard">
-                <img src="../Imagem/pagamentos/American-Express.png" alt="american express">
-                <img src="../Imagem/pagamentos/elo.png" alt="cartão elo">
-                <img src="../Imagem/pagamentos/bndes.png" alt="cartão bndes">
-                <img src="../Imagem/pagamentos/pix.png" alt="pix">
-                <img src="../Imagem/pagamentos/boleto.png" alt="boleto">
+                <img src="../assets/Imagem/pagamentos/mastercard.png" alt="cartão master card">
+                <img src="../assets/Imagem/pagamentos/visa.png" alt="cartão visa">
+                <img src="../assets/Imagem/pagamentos/hipercard.png" alt="cartão hipercard">
+                <img src="../assets/Imagem/pagamentos/American-Express.png" alt="american express">
+                <img src="../assets/Imagem/pagamentos/elo.png" alt="cartão elo">
+                <img src="../assets/Imagem/pagamentos/bndes.png" alt="cartão bndes">
+                <img src="../assets/Imagem/pagamentos/pix.png" alt="pix">
+                <img src="../assets/Imagem/pagamentos/boleto.png" alt="boleto">
             </div>
                 
             <div class="redeSocial">

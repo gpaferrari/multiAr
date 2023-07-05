@@ -6,14 +6,14 @@
 
     <div class="marcas">
         
-        <img src="../Imagem/marcas/daikin.png" alt="Daikin">
-        <img src="../Imagem/marcas/carrier.png" alt="Carrier">
-        <img src="../Imagem/marcas/springer.png" alt="Springer Midea">
-        <img src="../Imagem/marcas/lg.png" alt="LG">
-        <img src="../Imagem/marcas/fujitsu.png" alt="Fujitsu">
-        <img src="../Imagem/marcas/elgin.png" alt="Elgin">
-        <img src="../Imagem/marcas/gree.png" alt="Gree">
-        <img src="../Imagem/marcas/agratto.png" alt="Agratto">
+        <img src="../assets/Imagem/marcas/daikin.png" alt="Daikin">
+        <img src="../assets/Imagem/marcas/carrier.png" alt="Carrier">
+        <img src="../assets/Imagem/marcas/springer.png" alt="Springer Midea">
+        <img src="../assets/Imagem/marcas/lg.png" alt="LG">
+        <img src="../assets/Imagem/marcas/fujitsu.png" alt="Fujitsu">
+        <img src="../assets/Imagem/marcas/elgin.png" alt="Elgin">
+        <img src="../assets/Imagem/marcas/gree.png" alt="Gree">
+        <img src="../assets/Imagem/marcas/agratto.png" alt="Agratto">
 
     </div>
 
